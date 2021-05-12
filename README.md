@@ -1,14 +1,7 @@
-# Hi, I'm Douglas! :D
+ 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/douglas-silva-926345147/)](https://www.linkedin.com/in/douglas-silva-926345147/)
-[![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ediigas1)](https://twitter.com/Ediigas1)
-
-
-### About me
-I'm a {Front-end Developer I understand JAVA at Beckend} 
-
-<h1>Cleo Menezes Jr.</h2>
-<p>Student of System Analysis and Development at <a href="https://www.uca.edu.br">Catholic University (UCA)</p>
+<h1>Hi, I'm Douglas Silva!:D</h2>
+<p>I'm a {Front-end Developer I understand JAVA at Beckend}</p>
   
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/douglas-silva-926345147/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/dodo_odouglas/)
@@ -19,7 +12,7 @@ I'm a {Front-end Developer I understand JAVA at Beckend}
 
 
 <div>
-  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=CleoMenezes&theme=react&show_icons=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CleoMenezes&theme=react" />
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Ediigas&theme=react&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ediigas&theme=react" />
 </div>
 <br>
